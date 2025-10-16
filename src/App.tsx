@@ -176,17 +176,6 @@ function App() {
             )}
           </div>
         </div>
-
-        <footer className="mt-12 sm:mt-16 py-6 sm:py-8 border-t border-black/10">
-          <div className="text-center space-y-2">
-            <p className="text-xs sm:text-sm text-black/40">
-              Powered by Google Gemini AI
-            </p>
-            <p className="text-[10px] sm:text-xs text-black/30">
-              © 2025 Amazon Listing Optimizer. All rights reserved.
-            </p>
-          </div>
-        </footer>
       </div>
     </div>
   );
